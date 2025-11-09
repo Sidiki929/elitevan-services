@@ -13,7 +13,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/60"></div>
 
         <div className="container mx-auto px-4 relative z-10 text-center text-white">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 sm:mt-24 tracking-tight leading-tight">
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 mt-10 md:mt-0 tracking-tight leading-tight">
             ELITEVAN SERVICES
           </h1>
           <p className="text-2xl md:text-3xl mb-4 text-gray-200">Prestige Ride</p>
