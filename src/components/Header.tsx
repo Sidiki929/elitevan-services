@@ -23,8 +23,8 @@ export default function Header() {
           </div>
 
           <Link to="/" className="text-center hover:opacity-90 transition-opacity">
-            <h1 className="text-2xl md:text-3xl font-bold tracking-wider">ELITEVAN SERVICES</h1>
-            <p className="text-xs md:text-sm text-gray-300 uppercase tracking-widest">Prestige Ride</p>
+            <h1 className="text-xl md:text-2xl font-bold tracking-wider">ELITEVAN SERVICES</h1>
+            <p className="text-2xs md:text-sm text-gray-300 uppercase tracking-widest">Prestige Ride</p>
           </Link>
 
           <button
